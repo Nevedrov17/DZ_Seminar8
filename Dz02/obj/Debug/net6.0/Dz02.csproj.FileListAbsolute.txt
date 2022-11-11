@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\bin\Debug\net6.0\Dz02.exe
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\bin\Debug\net6.0\Dz02.deps.json
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\bin\Debug\net6.0\Dz02.runtimeconfig.json
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\bin\Debug\net6.0\Dz02.dll
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\bin\Debug\net6.0\Dz02.pdb
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.dll
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\refint\Dz02.dll
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.pdb
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\Dz02.genruntimeconfig.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\DZ_Seminar8\Project\Dz02\obj\Debug\net6.0\ref\Dz02.dll
